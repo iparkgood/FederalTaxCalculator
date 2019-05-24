@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Federal Tax Calculator</string>
+    <string name="txtTitle">Calculate Tax</string>
+    <string name="txtTitleSingle">Calculate Tax for Single</string>
+    <string name="txtTitleMarried">Calculate Tax for Married</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="btnSingle">CALCULATE</string>
+    <string name="btnMarried">CALCULATE</string>
+    <string name="btnBackSingle">GO BACK</string>
+    <string name="btnBackMarried">GO BACK</string>
+    <string name="imgTax">money image</string>
+    <string name="imgSingle">one flower image</string>
+    <string name="imgMarried">two flowers image</string>
+    <string name="hintSingle">Enter Your Income</string>
+    <string name="hintMarried">Enter Your Income</string>
+    <string name="prompt">Select Your Status</string>
+    <string name="radDeducSingle">Deduction</string>
+    <string name="radNoDeducSingle">No Deduction</string>
+    <string name="radDeducMarried">Deduction</string>
+    <string name="radNoDeducMarried">No Deduction</string>
+    <string-array name="txtGroup">
+        <item>Single</item>
+        <item>Married</item>
+    </string-array>
+</resources>
